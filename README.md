@@ -1,6 +1,8 @@
 BCCI Database Management System 
 
 <img width="306" height="165" alt="bcci" src="https://github.com/user-attachments/assets/6ce34123-4813-4b82-8a2e-c7ebaad09b2e" />
+[BCCI ER diagram.pdf](https://github.com/user-attachments/files/24254832/BCCI.ER.diagram.pdf)
+
 
 This project presents a structured and normalized database design for the Board of Control for Cricket in India (BCCI).
 
