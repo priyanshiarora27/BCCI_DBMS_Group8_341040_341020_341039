@@ -99,6 +99,7 @@ Files Included
 1.BCCI_ER_MODEL.mwb
 MySQL Workbench model file
 Contains the EER diagram, entities, relationships, and constraints
+
 2.Bcci_full_schema_with_data.sql
 Forward-engineered SQL script
 Includes schema creation, table definitions, constraints, and sample data
